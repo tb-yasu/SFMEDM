@@ -10,14 +10,13 @@ make
 ./sfmedm --input_file=../dat/dat.txt  --output_file=out.txt
 
 ## Input file format
-Each line of input file is class label (integer) following string as follows, 
-     1 AAQFVAEHGDQVCPAKWTPGAETIVPSL
-     1 AFQFTDKHGEVCPAGWKPGSDTIKPDVEKSKEYFSK
-     1 AIHHTQVNANEVCPVDWQPGQKTITPSSKSARGFFET
-     1 AFQYVETHGEVCPANWTPDSPTIKPSPAASKEYFQK
-     1 SLQLTANYSVATPADWKEGEDVVVSNSIKTEDIPSKFPKG
-     1 SMQLTAKHKVATPVNWTQGQDVIIAGSVSDDDAKTLFPEG
-     1 AAQYVAAHPGEVCPAKWTEGAATLTPSLDLVGK
+    Each line of input file is class label (integer) following string as follows, 
+    1 AAQFVAEHGDQVCPAKWTPGAETIVPSL
+    1 AFQFTDKHGEVCPAGWKPGSDTIKPDVEKSKEYFSK
+    1 AIHHTQVNANEVCPVDWQPGQKTITPSSKSARGFFET
+    0 AFQYVETHGEVCPANWTPDSPTIKPSPAASKEYFQK
+    0 SLQLTANYSVATPADWKEGEDVVVSNSIKTEDIPSKFPKG
+  
 
 ## Commandline options
     usage: ./sfmedm --input_file=string --output_file=string [options] ...  
