@@ -1,4 +1,10 @@
-MIT License
+For academic use case, MIT License is applied to the codes. For industrial use case, please contact yasuo.tabei@gmail.com.
+For both academic and inductrial use cases, please refere to the following papers and URL for the code reposity.
+
+Tabei, Y., Yamanishi, Y. & Pagh, R. Space-Efficient Feature Maps for String Alignment Kernels. Data Sci. Eng. 5, 168–179 (2020). https://doi.org/10.1007/s41019-020-00120-6
+Tabei, Y., Yamanishi, Y. & Pagh, R. Space-Efficient Feature Maps for String Alignment Kernels. In Proceedings of the 19th IEEE International Conference on Data Mining (ICDM), 2019.
+https://github.com/tb-yasu/SFMEDM
+
 
 Copyright (c) 2021 Yasuo Tabei
 
