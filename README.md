@@ -6,5 +6,7 @@ SFMEDM is a feature maps for string alignment kernels. SFMEDM takes a set of str
 
 ## Demo
 cd src
+
 make
+
 ./sfmedm --input_file=../dat/dat.txt  --output_file=out.txt
