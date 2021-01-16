@@ -17,6 +17,8 @@ make
     0 AFQYVETHGEVCPANWTPDSPTIKPSPAASKEYFQK
     0 SLQLTANYSVATPADWKEGEDVVVSNSIKTEDIPSKFPKG
 
+Please see ./dat/dat.txt for an example.
+
 ## Output file format
     Each line of output file is a class label (integer) followed by a feature vector in the LIBSVM format where feature is represented as a pair of dimension and value as follows, 
     1 1:0.306572 2:0.176107 3:0.221853 4:-0.275284 5:0.0186437 6:-0.353061 7:-0.332309 8:0.12071 9:-0.241722 10:0.258013 11:0.0684519 12:-0.346864 13:-0.309075 14:-0.171676 15:0.150164 16:0.320079
